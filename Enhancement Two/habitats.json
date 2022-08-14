@@ -1,0 +1,17 @@
+{
+	"Penguin": {
+		"Temperature": "Freezing",
+		"Food Source": "Fish in water running low",
+		"Cleanliness": "Passed"
+	},
+	"Bird House": {
+		"Temperature": "Moderate",
+		"Food Source": "Natural from environment",
+		"Cleanliness": "Passed"
+	},
+	"Aquarium": {
+		"Temperature": "Varies with output temperature",
+		"Food Source": "Added daily",
+		"Cleanliness": "Needs cleaning from algae"
+	}
+}
