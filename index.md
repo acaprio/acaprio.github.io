@@ -42,7 +42,7 @@ I chose to include this artifact to showcase innovative techniques and skills by
 ### Reflection
 Transferring from Java to Python was a bit of a challenge. The original program was written using NetBeans IDE, which I didn’t have set up for Python. I did some internet searching and found that while Python plugins are available, it isn’t supported directly by Oracle. I ended up using Visual Studio to rewrite the code in Python, as it was already set up from previous classes. I haven’t had a coding class in a while, so it took some time remembering how to set things up. Once I had the IDE situated, the actual writing into Python wasn’t overly difficult. I ended up commenting out most of the rewrite and then tested in order of execution until I was confident the entire program would work. I did not update any formatting of the outputted menus, or fix any inefficiencies, as that will be covered in my Milestone 3 enhancement plan. Doing this part of the enhancement first allowed me to see the program again and pick out any parts I want to update later. It worked as a great way to do a more in-depth review of the code. 
 
-### Code:
+### Code
 [Enhancement One Artifact](https://github.com/acaprio/acaprio.github.io/tree/main/Enhancement%20One)
 
 # Enhancement Two
@@ -56,7 +56,7 @@ I chose to include this artifact to showcase my ability of improving efficiency 
 ### Reflection
 	The changes were relatively simple, but eliminated the need for guessing when selecting an option. They are also crucial to the program if another developer wanted to ever add to the list of options. Having to guess what words would be input by users as a trigger to select items was confusing and not very efficient use of the coding. This enhancement demonstrates an ability to solve algorithm and data structure inefficiencies while maintaining efficient design. 
 
-### Code:
+### Code
 [Enhancement Two Artifact](https://github.com/acaprio/acaprio.github.io/tree/main/Enhancement%20Two)
 
 ### Support or Contact
