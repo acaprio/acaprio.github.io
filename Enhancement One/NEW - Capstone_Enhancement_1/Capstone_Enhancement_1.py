@@ -1,5 +1,6 @@
 # * Zookeeper Monitoring System
-# *
+# * Will ask for input and display cooresponding information
+# * from the specified file
 # * @author acaprio
 
 
