@@ -1,0 +1,32 @@
+{
+    "Lion": {
+        "name": "Leo",
+        "age": "5",
+        "health": "Cut on left front paw",
+        "feeding": "Twice daily"
+    },
+    "Tiger": {
+        "name": "Maj",
+        "age": "14",
+        "health": "None",
+        "feeding": "3x daily"
+    },
+    "Bear": {
+        "name": "Baloo",
+        "age": "1",
+        "health": "None",
+        "feeding": "None on record"
+    },
+    "Giraffe": {
+        "name": "Spots",
+        "age": "12",
+        "health": "None",
+        "feeding": "Grazing"
+    },
+    "Snake": {
+        "name": "Syd",
+        "age": "3",
+        "health": "None",
+        "feeding": "1x monthly"
+    }
+}
