@@ -60,4 +60,4 @@ I chose to include this artifact to showcase innovative techniques and skills by
 Enhancing this artifact did provide some challenges. I didn’t want to hard code the menu options because that wouldn’t allow for additions to be done when adding records. It took a while to figure out how to do the updating and creating without explicitly calling out the key the values should be saved to. I was working with 2 independent files and didn’t want to repeat the code too much. I tried to make the code as generic as possible so anyone could hopefully expand what is built currently. 
 
 ### Code
-[Enhancement Two Artifact](https://github.com/acaprio/acaprio.github.io/tree/main/Enhancement%20Three)
+[Enhancement Three Artifact](https://github.com/acaprio/acaprio.github.io/tree/main/Enhancement%20Three)
